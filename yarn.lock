@@ -2,29 +2,9 @@
 # yarn lockfile v1
 
 
-"@cotto/idb-wrapper@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@cotto/idb-wrapper/-/idb-wrapper-0.0.6.tgz#8a7382b9182e35e461209d10251fd38bc6b39318"
-  dependencies:
-    "@cotto/sq" "^0.1.2"
-    "@cotto/utils.ts" "^0.1.8"
-
-"@cotto/sq@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@cotto/sq/-/sq-0.1.2.tgz#030c6790d9b4a06713c7ce32618204700325fd40"
-  dependencies:
-    "@cotto/utils.ts" "^0.0.8"
-    "@types/node" "^8.0.26"
-
 "@cotto/tslint-config@^0.0.7":
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/@cotto/tslint-config/-/tslint-config-0.0.7.tgz#2faae9bb512352c7a93f200f3055704cb2e79150"
-
-"@cotto/utils.ts@^0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@cotto/utils.ts/-/utils.ts-0.0.8.tgz#f701caed4599737efd773614d191f2c7d9b9bb23"
-  dependencies:
-    "@types/node" "^8.0.24"
 
 "@cotto/utils.ts@^0.1.8":
   version "0.1.8"
@@ -48,13 +28,13 @@
   version "6.0.88"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-6.0.88.tgz#f618f11a944f6a18d92b5c472028728a3e3d4b66"
 
-"@types/node@^8.0.24", "@types/node@^8.0.26", "@types/node@^8.0.30":
-  version "8.0.30"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.30.tgz#aa3c42946fc6357737eb215349fe728b38679d05"
-
 "@types/node@^8.0.28":
   version "8.0.28"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.28.tgz#86206716f8d9251cf41692e384264cbd7058ad60"
+
+"@types/node@^8.0.30":
+  version "8.0.30"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.30.tgz#aa3c42946fc6357737eb215349fe728b38679d05"
 
 "@types/power-assert-formatter@*":
   version "1.4.28"
