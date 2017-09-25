@@ -13,6 +13,7 @@
     "@cotto/idb-wrapper": "^0.0.6"
   },
   "devDependencies": {
+    "@cotto/idb-wrapper": "^0.0.6",
     "@cotto/tslint-config": "^0.0.7",
     "@types/mocha": "^2.2.43",
     "@types/node": "^8.0.30",
